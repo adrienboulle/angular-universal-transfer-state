@@ -5,6 +5,7 @@
  */
  /* tslint:disable */
 
+
 import * as import0 from '@angular/core';
 import * as import1 from './browser';
 import * as import2 from './transfer-state';
@@ -37,3 +38,4 @@ class BrowserTransferStateModuleInjector extends import0.ɵNgModuleInjector<impo
   }
 }
 export const BrowserTransferStateModuleNgFactory:import0.NgModuleFactory<import1.BrowserTransferStateModule> = new import0.NgModuleFactory<any>(BrowserTransferStateModuleInjector,import1.BrowserTransferStateModule);
+//# sourceMappingURL=data:application/json;base64,eyJmaWxlIjoiL1VzZXJzL2FkYm91bC9Eb2N1bWVudHMvcmVwb3MvYW5ndWxhci11bml2ZXJzYWwtdHJhbnNmZXItc3RhdGUvc3JjL2Jyb3dzZXIubmdmYWN0b3J5LnRzIiwidmVyc2lvbiI6Mywic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsibmc6Ly8vVXNlcnMvYWRib3VsL0RvY3VtZW50cy9yZXBvcy9hbmd1bGFyLXVuaXZlcnNhbC10cmFuc2Zlci1zdGF0ZS9zcmMvYnJvd3Nlci50cyJdLCJzb3VyY2VzQ29udGVudCI6WyIgIl0sIm1hcHBpbmdzIjoiQUFBQTs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7OyJ9

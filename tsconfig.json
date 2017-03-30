@@ -19,6 +19,7 @@
     "node_modules",
     "typings/main.d.ts",
     "typings/main",
+    "index.d.ts",
     "browser.d.ts",
     "server.d.ts"
   ],
