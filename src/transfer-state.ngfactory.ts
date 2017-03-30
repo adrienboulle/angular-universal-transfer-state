@@ -5,6 +5,7 @@
  */
  /* tslint:disable */
 
+
 import * as import0 from '@angular/core';
 import * as import1 from './transfer-state';
 import * as import2 from '@angular/http';
@@ -31,3 +32,4 @@ class TransferHttpModuleInjector extends import0.ɵNgModuleInjector<import1.Tran
   }
 }
 export const TransferHttpModuleNgFactory:import0.NgModuleFactory<import1.TransferHttpModule> = new import0.NgModuleFactory<any>(TransferHttpModuleInjector,import1.TransferHttpModule);
+//# sourceMappingURL=data:application/json;base64,eyJmaWxlIjoiL1VzZXJzL2FkYm91bC9Eb2N1bWVudHMvcmVwb3MvYW5ndWxhci11bml2ZXJzYWwtdHJhbnNmZXItc3RhdGUvc3JjL3RyYW5zZmVyLXN0YXRlLm5nZmFjdG9yeS50cyIsInZlcnNpb24iOjMsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIm5nOi8vL1VzZXJzL2FkYm91bC9Eb2N1bWVudHMvcmVwb3MvYW5ndWxhci11bml2ZXJzYWwtdHJhbnNmZXItc3RhdGUvc3JjL3RyYW5zZmVyLXN0YXRlLnRzIl0sInNvdXJjZXNDb250ZW50IjpbIiAiXSwibWFwcGluZ3MiOiJBQUFBOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7In0=

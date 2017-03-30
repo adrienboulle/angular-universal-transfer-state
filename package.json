@@ -2,8 +2,7 @@
   "name": "@angularclass/universal-transfer-state",
   "version": "1.0.11",
   "description": "universal-transfer-state: Angular Universal module for transfering state from server to client",
-  "main": "dist/node.js",
-  "main": "dist/browser.js",
+  "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "browser.d.ts",
@@ -30,21 +29,22 @@
   },
   "homepage": "https://github.com/angularclass/angular-universal-transfer-state#readme",
   "devDependencies": {
-    "@angular/common": "^4.0.0-rc.3",
-    "@angular/compiler": "^4.0.0-rc.3",
-    "@angular/compiler-cli": "^4.0.0-rc.3",
-    "@angular/core": "^4.0.0-rc.3",
-    "@angular/http": "^4.0.0-rc.3",
-    "@angular/platform-browser": "^4.0.0-rc.3",
-    "@angular/platform-browser-dynamic": "^4.0.0-rc.3",
-    "@angular/platform-server": "^4.0.0-rc.3",
-    "@angular/router": "^4.0.0-rc.3",
+    "@angular/animations": "next",
+    "@angular/common": "next",
+    "@angular/compiler": "next",
+    "@angular/compiler-cli": "next",
+    "@angular/core": "next",
+    "@angular/http": "next",
+    "@angular/platform-browser": "next",
+    "@angular/platform-browser-dynamic": "next",
+    "@angular/platform-server": "next",
+    "@angular/router": "next",
     "@types/express": "^4.0.35",
     "@types/node": "^7.0.8",
     "rxjs": "^5.2.0",
-    "typescript": "~2.2.1",
+    "typescript": "^2.2.2",
     "xhr2": "^0.1.4",
-    "zone.js": "~0.7.2"
+    "zone.js": "^0.8.5"
   },
   "dependencies": {
   }

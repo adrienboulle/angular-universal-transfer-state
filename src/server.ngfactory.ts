@@ -5,6 +5,7 @@
  */
  /* tslint:disable */
 
+
 import * as import0 from '@angular/core';
 import * as import1 from './server';
 import * as import2 from '@angular/platform-server';
@@ -32,3 +33,4 @@ class ServerTransferStateModuleInjector extends import0.ɵNgModuleInjector<impor
   }
 }
 export const ServerTransferStateModuleNgFactory:import0.NgModuleFactory<import1.ServerTransferStateModule> = new import0.NgModuleFactory<any>(ServerTransferStateModuleInjector,import1.ServerTransferStateModule);
+//# sourceMappingURL=data:application/json;base64,eyJmaWxlIjoiL1VzZXJzL2FkYm91bC9Eb2N1bWVudHMvcmVwb3MvYW5ndWxhci11bml2ZXJzYWwtdHJhbnNmZXItc3RhdGUvc3JjL3NlcnZlci5uZ2ZhY3RvcnkudHMiLCJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJuZzovLy9Vc2Vycy9hZGJvdWwvRG9jdW1lbnRzL3JlcG9zL2FuZ3VsYXItdW5pdmVyc2FsLXRyYW5zZmVyLXN0YXRlL3NyYy9zZXJ2ZXIudHMiXSwic291cmNlc0NvbnRlbnQiOlsiICJdLCJtYXBwaW5ncyI6IkFBQUE7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7In0=
